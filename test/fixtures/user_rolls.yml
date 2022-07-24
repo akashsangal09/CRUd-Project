@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  role: MyString
+  accesstoken: MyString
+  status: false
+  created_on: 2022-07-01 22:53:59
+  email: MyString
+
+two:
+  role: MyString
+  accesstoken: MyString
+  status: false
+  created_on: 2022-07-01 22:53:59
+  email: MyString

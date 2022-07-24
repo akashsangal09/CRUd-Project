@@ -1,0 +1,2 @@
+class UserRoll < ApplicationRecord
+end
